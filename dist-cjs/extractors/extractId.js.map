@@ -1,1 +1,0 @@
-{"version":3,"file":"extractId.js","sourceRoot":"","sources":["../../src/extractors/extractId.ts"],"names":[],"mappings":";;AAEA,MAAM,SAAS,GAAG,CAAC,KAAiB,EAA0B,EAAE;IAC9D,MAAM,EAAC,MAAM,EAAC,GAAG,KAAK,CAAC;IAEvB,OAAO,MAAM,CAAC,IAAI,CAAC,CAAC,EAAC,IAAI,EAAC,EAAE,EAAE,CAAC,IAAI,CAAC,CAAC;AACvC,CAAC,CAAC;AAEF,kBAAe,SAAS,CAAC"}
