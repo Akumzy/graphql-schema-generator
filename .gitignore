@@ -6,6 +6,5 @@ node_modules
 lib
 coverage
 
-dist-*
 tsconfig.esm.tsbuildinfo
 tsconfig.cjs.tsbuildinfo
