@@ -42,13 +42,12 @@ const rules: Rule[] = [
   },
   {
     matcher: (field, _model, isModelsOfSchema, config) => {
-      console.log({isModelsOfSchema, config});
       if (
         typeof isModelsOfSchema === 'boolean' &&
         isModelsOfSchema &&
         config?.argConfig?.fields
       ) {
-        return !!config.argConfig.fields.includes(field.name);
+        return !!config?.argConfig.fields.includes(field.name);
       }
       return false;
     },
