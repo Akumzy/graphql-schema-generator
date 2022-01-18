@@ -1,5 +1,5 @@
 {
-  "name": "@prisma-korea/graphql-schema-generator",
+  "name": "@akumzy/graphql-schema-generator",
   "version": "0.3.0",
   "main": "dist-cjs/index.js",
   "types": "dist-cjs/index.d.ts",
@@ -61,7 +61,7 @@
   "description": "Generate Graphql schema(SDL) from Prisma schema using Prisma generator.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prisma-korea/graphql-schema-generator.git"
+    "url": "git+https://github.com/Akumzy/graphql-schema-generator.git"
   },
   "keywords": [
     "prisma",
@@ -70,9 +70,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prisma-korea/graphql-schema-generator/issues"
+    "url": "https://github.com/Akumzy/graphql-schema-generator/issues"
   },
-  "homepage": "https://github.com/prisma-korea/graphql-schema-generator#readme",
+  "homepage": "https://github.com/Akumzy/graphql-schema-generator#readme",
   "files": [
     "dist-cjs",
     "dist-esm"
